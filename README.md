@@ -23,3 +23,5 @@ gmall-order-web 订单 8086
 gmall-order-service 订单服务 8076
 
 gmall-payment 8087
+
+需修改redis、zookeeper服务地址
